@@ -12,4 +12,9 @@ public class Test2 {
 		
 		System.out.println(a/b);
 	}
+	
+	public void newTry() {
+		
+		System.out.println("NewTRy");
+	}
 }
