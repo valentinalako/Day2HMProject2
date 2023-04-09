@@ -7,5 +7,9 @@ public class Test2 {
 		
 		System.out.println("Test 2....");
 	}
-
+	
+	public void divide (int a , int b) {
+		
+		System.out.println(a/b);
+	}
 }
